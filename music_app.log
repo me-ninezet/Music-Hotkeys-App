@@ -1,0 +1,156 @@
+2025-08-25 20:12:06,058 - INFO - Config created
+2025-08-25 20:12:06,059 - INFO - Hotkeys removed
+2025-08-25 20:12:06,067 - INFO - Trey icon started
+2025-08-25 20:12:06,102 - DEBUG - Importing AvifImagePlugin
+2025-08-25 20:12:06,104 - DEBUG - Importing BlpImagePlugin
+2025-08-25 20:12:06,106 - DEBUG - Importing BmpImagePlugin
+2025-08-25 20:12:06,106 - DEBUG - Importing BufrStubImagePlugin
+2025-08-25 20:12:06,107 - DEBUG - Importing CurImagePlugin
+2025-08-25 20:12:06,108 - DEBUG - Importing DcxImagePlugin
+2025-08-25 20:12:06,110 - DEBUG - Importing DdsImagePlugin
+2025-08-25 20:12:06,113 - DEBUG - Importing EpsImagePlugin
+2025-08-25 20:12:06,113 - DEBUG - Importing FitsImagePlugin
+2025-08-25 20:12:06,116 - DEBUG - Importing FliImagePlugin
+2025-08-25 20:12:06,116 - DEBUG - Importing FpxImagePlugin
+2025-08-25 20:12:06,118 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-08-25 20:12:06,118 - DEBUG - Importing FtexImagePlugin
+2025-08-25 20:12:06,120 - DEBUG - Importing GbrImagePlugin
+2025-08-25 20:12:06,121 - DEBUG - Importing GifImagePlugin
+2025-08-25 20:12:06,121 - DEBUG - Importing GribStubImagePlugin
+2025-08-25 20:12:06,122 - DEBUG - Importing Hdf5StubImagePlugin
+2025-08-25 20:12:06,123 - DEBUG - Importing IcnsImagePlugin
+2025-08-25 20:12:06,127 - DEBUG - Importing IcoImagePlugin
+2025-08-25 20:12:06,129 - DEBUG - Importing ImImagePlugin
+2025-08-25 20:12:06,131 - DEBUG - Importing ImtImagePlugin
+2025-08-25 20:12:06,131 - DEBUG - Importing IptcImagePlugin
+2025-08-25 20:12:06,132 - DEBUG - Importing JpegImagePlugin
+2025-08-25 20:12:06,132 - DEBUG - Importing Jpeg2KImagePlugin
+2025-08-25 20:12:06,132 - DEBUG - Importing McIdasImagePlugin
+2025-08-25 20:12:06,132 - DEBUG - Importing MicImagePlugin
+2025-08-25 20:12:06,135 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-08-25 20:12:06,135 - DEBUG - Importing MpegImagePlugin
+2025-08-25 20:12:06,135 - DEBUG - Importing MpoImagePlugin
+2025-08-25 20:12:06,145 - DEBUG - Importing MspImagePlugin
+2025-08-25 20:12:06,147 - DEBUG - Importing PalmImagePlugin
+2025-08-25 20:12:06,149 - DEBUG - Importing PcdImagePlugin
+2025-08-25 20:12:06,151 - DEBUG - Importing PcxImagePlugin
+2025-08-25 20:12:06,151 - DEBUG - Importing PdfImagePlugin
+2025-08-25 20:12:06,155 - DEBUG - Importing PixarImagePlugin
+2025-08-25 20:12:06,156 - DEBUG - Importing PngImagePlugin
+2025-08-25 20:12:06,156 - DEBUG - Importing PpmImagePlugin
+2025-08-25 20:12:06,156 - DEBUG - Importing PsdImagePlugin
+2025-08-25 20:12:06,157 - DEBUG - Importing QoiImagePlugin
+2025-08-25 20:12:06,157 - DEBUG - Importing SgiImagePlugin
+2025-08-25 20:12:06,158 - DEBUG - Importing SpiderImagePlugin
+2025-08-25 20:12:06,158 - DEBUG - Importing SunImagePlugin
+2025-08-25 20:12:06,159 - DEBUG - Importing TgaImagePlugin
+2025-08-25 20:12:06,160 - DEBUG - Importing TiffImagePlugin
+2025-08-25 20:12:06,160 - DEBUG - Importing WebPImagePlugin
+2025-08-25 20:12:06,162 - DEBUG - Importing WmfImagePlugin
+2025-08-25 20:12:06,163 - DEBUG - Importing XbmImagePlugin
+2025-08-25 20:12:06,164 - DEBUG - Importing XpmImagePlugin
+2025-08-25 20:12:06,165 - DEBUG - Importing XVThumbImagePlugin
+2025-08-25 20:12:06,210 - INFO - GUI Started
+2025-08-25 20:12:06,210 - DEBUG - Using proactor: IocpProactor
+2025-08-25 20:12:06,212 - INFO - Assets path configured: C:\Users\shmel\PycharmProjects\yandex-music-hotkeys\assets
+2025-08-25 20:12:06,214 - DEBUG - Creating new PubSubHub instance
+2025-08-25 20:12:06,214 - DEBUG - Creating new PubSubHub instance
+2025-08-25 20:12:06,215 - INFO - Starting up TCP server on localhost:39112
+2025-08-25 20:12:06,223 - INFO - Flet app has started...
+2025-08-25 20:12:06,236 - INFO - App URL: tcp://localhost:39112
+2025-08-25 20:12:06,236 - INFO - Starting Flet View app...
+2025-08-25 20:12:06,237 - INFO - Looking for Flet executable at: C:\Users\shmel\PycharmProjects\yandex-music-hotkeys\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-08-25 20:12:06,237 - INFO - Flet View found in: C:\Users\shmel\PycharmProjects\yandex-music-hotkeys\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-08-25 20:12:06,276 - INFO - Hotkeys setup completed
+2025-08-25 20:12:06,277 - INFO - Program started
+2025-08-25 20:12:06,518 - DEBUG - Connected new TCP client
+2025-08-25 20:12:06,518 - DEBUG - _on_message: {"action":"registerWebClient","payload":{"pageName":"","pageRoute":"/","pageWidth":"1267.0","pageHeight":"684.5","windowWidth":"1280.0","windowHeight":"720.0","windowTop":"10.0","windowLeft":"10.0","isPWA":"false","isWeb":"false","isDebug":"false","platform":"windows","platformBrightness":"dark","media":"{\"padding\":{\"top\":0.0,\"right\":0.0,\"bottom\":0.0,\"left\":0.0},\"view_padding\":{\"top\":0.0,\"right\":0.0,\"bottom\":0.0,\"left\":0.0},\"view_insets\":{\"top\":0.0,\"right\":0.0,\"bottom\":0.0,\"left\":0.0}}","sessionId":""}}
+2025-08-25 20:12:06,518 - DEBUG - __send: {"action":"registerWebClient","payload":{"session":{"id":"","controls":{"page":{"i":"page","t":"page","p":"","c":[],"route":"/","width":"1267.0","height":"684.5","windowwidth":"1280.0","windowheight":"720.0","windowtop":"10.0","windowleft":"10.0","pwa":"false","web":"false","debug":"false","platform":"windows","platformBrightness":"dark","media":"{\"padding\":{\"top\":0.0,\"right\":0.0,\"bottom\":0.0,\"left\":0.0},\"view_padding\":{\"top\":0.0,\"right\":0.0,\"bottom\":0.0,\"left\":0.0},\"view_insets\":{\"top\":0.0,\"right\":0.0,\"bottom\":0.0,\"left\":0.0}}"}}},"error":"","appInactive":false}}
+2025-08-25 20:12:06,518 - DEBUG - _process_command: get ['page', 'route'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'pwa'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'web'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'debug'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'platform'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'platformBrightness'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'media'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'width'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'height'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'windowWidth'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'windowHeight'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'windowTop'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'windowLeft'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'clientIP'] {}
+2025-08-25 20:12:06,519 - DEBUG - _process_command: get ['page', 'clientUserAgent'] {}
+2025-08-25 20:12:06,519 - INFO - App session started
+2025-08-25 20:12:06,523 - DEBUG - _process_command: set ['page'] {'onkeyboardevent': 'true', 'title': 'Music Hotkeys', 'windowheight': '600', 'windowvisible': 'true', 'windowwidth': '800'}
+2025-08-25 20:12:06,523 - DEBUG - _process_command: add [] {'to': 'page', 'at': '0'}
+2025-08-25 20:12:06,524 - DEBUG - sent to TCP: 604
+2025-08-25 20:12:06,524 - DEBUG - _process_command: add [] {'to': 'page', 'at': '1'}
+2025-08-25 20:12:06,525 - DEBUG - __send: {"action":"pageControlsBatch","payload":[{"action":"updateControlProps","payload":{"props":[{"i":"page","onkeyboardevent":"true","title":"Music Hotkeys","windowheight":"600","windowvisible":"true","windowwidth":"800"}]}},{"action":"addPageControls","payload":{"controls":[{"t":"view","i":"_1","p":"page","c":["_2"],"at":"0","verticalalignment":"center"},{"t":"row","i":"_2","p":"_1","c":["_3","_4"],"alignment":"spaceBetween"},{"t":"text","i":"_3","p":"_2","c":[],"size":"24","value":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u0434\u043e\u0431\u043d\u044b\u0435 \u0432\u0430\u043c \u0433\u043e\u0440\u044f\u0447\u0438\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438"},{"t":"iconbutton","i":"_4","p":"_2","c":[],"icon":"minimize","tooltip":"\"\\u0421\\u0432\\u0435\\u0440\\u043d\\u0443\\u0442\\u044c \\u0432 \\u0442\\u0440\\u0435\\u0439\""}],"trimIDs":[]}},{"action":"addPageControls","payload":{"controls":[{"t":"offstage","i":"_5","p":"page","c":[],"at":"1"}],"trimIDs":[]}}]}
+2025-08-25 20:12:06,525 - DEBUG - sent to TCP: 997
+2025-08-25 20:12:06,526 - DEBUG - _process_command: add [] {'to': '_1', 'at': '1'}
+2025-08-25 20:12:06,527 - DEBUG - __send: {"action":"pageControlsBatch","payload":[{"action":"addPageControls","payload":{"controls":[{"t":"row","i":"_6","p":"_1","c":["_7","_10","_13","_16","_19","_22"],"at":"1","alignment":"center","spacing":"70"},{"t":"column","i":"_7","p":"_6","c":["_8","_9"],"horizontalalignment":"center"},{"t":"icon","i":"_8","p":"_7","c":[],"name":"keyboard_double_arrow_left","size":"50"},{"t":"elevatedbutton","i":"_9","p":"_7","c":[],"style":"{\"padding\":{},\"side\":{},\"shape\":{},\"text_style\":{}}","text":","},{"t":"column","i":"_10","p":"_6","c":["_11","_12"],"horizontalalignment":"center"},{"t":"icon","i":"_11","p":"_10","c":[],"name":"pause","size":"50"},{"t":"elevatedbutton","i":"_12","p":"_10","c":[],"style":"{\"padding\":{},\"side\":{},\"shape\":{},\"text_style\":{}}","text":"."},{"t":"column","i":"_13","p":"_6","c":["_14","_15"],"horizontalalignment":"center"},{"t":"icon","i":"_14","p":"_13","c":[],"name":"keyboard_double_arrow_right","size":"50"},{"t":"elevatedbutton","i":"_15","p":"_13","c":[],"style":"{\"padding\":{},\"side\":{},\"shape\":{},\"text_style\":{}}","text":"/"},{"t":"column","i":"_16","p":"_6","c":["_17","_18"],"horizontalalignment":"center"},{"t":"icon","i":"_17","p":"_16","c":[],"name":"volume_down","size":"50"},{"t":"elevatedbutton","i":"_18","p":"_16","c":[],"style":"{\"padding\":{},\"side\":{},\"shape\":{},\"text_style\":{}}","text":"Insert"},{"t":"column","i":"_19","p":"_6","c":["_20","_21"],"horizontalalignment":"center"},{"t":"icon","i":"_20","p":"_19","c":[],"name":"volume_off","size":"50"},{"t":"elevatedbutton","i":"_21","p":"_19","c":[],"style":"{\"padding\":{},\"side\":{},\"shape\":{},\"text_style\":{}}","text":"\\"},{"t":"column","i":"_22","p":"_6","c":["_23","_24"],"horizontalalignment":"center"},{"t":"icon","i":"_23","p":"_22","c":[],"name":"volume_up","size":"50"},{"t":"elevatedbutton","i":"_24","p":"_22","c":[],"style":"{\"padding\":{},\"side\":{},\"shape\":{},\"text_style\":{}}","text":"Delete"}],"trimIDs":[]}}]}
+2025-08-25 20:12:06,527 - INFO - GUI started
+2025-08-25 20:12:06,527 - DEBUG - sent to TCP: 1977
+2025-08-25 20:12:07,450 - DEBUG - _on_message: {"action":"updateControlProps","payload":{"props":[{"i":"page","width":"787.0","height":"564.5","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"true","windowfullscreen":"false"}]}}
+2025-08-25 20:12:07,450 - DEBUG - page.on_event_async: page change [{"i":"page","width":"787.0","height":"564.5","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"true","windowfullscreen":"false"}]
+2025-08-25 20:12:07,450 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"resized","eventData":"{\"width\":787.0,\"height\":564.5}"}}
+2025-08-25 20:12:07,450 - DEBUG - page.on_event_async: page resized {"width":787.0,"height":564.5}
+2025-08-25 20:12:09,388 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"_4","eventName":"hover","eventData":"true"}}
+2025-08-25 20:12:09,389 - DEBUG - page.on_event_async: _4 hover true
+2025-08-25 20:12:09,616 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"_4","eventName":"click","eventData":null}}
+2025-08-25 20:12:09,617 - DEBUG - page.on_event_async: _4 click None
+2025-08-25 20:12:09,620 - DEBUG - _process_command: set ['page'] {'windowvisible': 'false'}
+2025-08-25 20:12:09,620 - DEBUG - __send: {"action":"pageControlsBatch","payload":[{"action":"updateControlProps","payload":{"props":[{"i":"page","windowvisible":"false"}]}}]}
+2025-08-25 20:12:09,620 - DEBUG - sent to TCP: 137
+2025-08-25 20:12:09,671 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"app_lifecycle_state_change","eventData":"inactive"}}
+2025-08-25 20:12:09,671 - DEBUG - page.on_event_async: page app_lifecycle_state_change inactive
+2025-08-25 20:12:09,678 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"_4","eventName":"hover","eventData":"false"}}
+2025-08-25 20:12:09,678 - DEBUG - page.on_event_async: _4 hover false
+2025-08-25 20:12:09,714 - DEBUG - _on_message: {"action":"updateControlProps","payload":{"props":[{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"false","windowfullscreen":"false"}]}}
+2025-08-25 20:12:09,715 - DEBUG - page.on_event_async: page change [{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"false","windowfullscreen":"false"}]
+2025-08-25 20:12:09,716 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"window_event","eventData":"hide"}}
+2025-08-25 20:12:09,717 - DEBUG - page.on_event_async: page window_event hide
+2025-08-25 20:12:09,717 - DEBUG - _on_message: {"action":"updateControlProps","payload":{"props":[{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"false","windowfullscreen":"false"}]}}
+2025-08-25 20:12:09,717 - DEBUG - page.on_event_async: page change [{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"false","windowfullscreen":"false"}]
+2025-08-25 20:12:09,717 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"window_event","eventData":"blur"}}
+2025-08-25 20:12:09,718 - DEBUG - page.on_event_async: page window_event blur
+2025-08-25 20:12:12,633 - INFO - Show the window
+2025-08-25 20:12:12,633 - DEBUG - _process_command: invokeMethod ['4e5ea3a9cb8644b6b8cbf2d5e73cee83', 'windowToFront', ''] {}
+2025-08-25 20:12:12,633 - DEBUG - __send: {"action":"invokeMethod","payload":{"methodId":"4e5ea3a9cb8644b6b8cbf2d5e73cee83","methodName":"windowToFront","controlId":"","arguments":{}}}
+2025-08-25 20:12:12,634 - DEBUG - _process_command: set ['page'] {'windowvisible': 'true'}
+2025-08-25 20:12:12,635 - DEBUG - __send: {"action":"pageControlsBatch","payload":[{"action":"updateControlProps","payload":{"props":[{"i":"page","windowvisible":"true"}]}}]}
+2025-08-25 20:12:12,635 - DEBUG - sent to TCP: 146
+2025-08-25 20:12:12,635 - DEBUG - sent to TCP: 136
+2025-08-25 20:12:12,635 - INFO - The window is shown
+2025-08-25 20:12:12,678 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"app_lifecycle_state_change","eventData":"resume"}}
+2025-08-25 20:12:12,679 - DEBUG - page.on_event_async: page app_lifecycle_state_change resume
+2025-08-25 20:12:12,679 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"app_lifecycle_state_change","eventData":"inactive"}}
+2025-08-25 20:12:12,679 - DEBUG - page.on_event_async: page app_lifecycle_state_change inactive
+2025-08-25 20:12:12,685 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"app_lifecycle_state_change","eventData":"resume"}}
+2025-08-25 20:12:12,685 - DEBUG - page.on_event_async: page app_lifecycle_state_change resume
+2025-08-25 20:12:12,812 - DEBUG - _on_message: {"action":"updateControlProps","payload":{"props":[{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"true","windowfullscreen":"false"}]}}
+2025-08-25 20:12:12,812 - DEBUG - page.on_event_async: page change [{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"true","windowfullscreen":"false"}]
+2025-08-25 20:12:12,812 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"window_event","eventData":"focus"}}
+2025-08-25 20:12:12,812 - DEBUG - page.on_event_async: page window_event focus
+2025-08-25 20:12:12,841 - DEBUG - _on_message: {"action":"updateControlProps","payload":{"props":[{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"true","windowfullscreen":"false"}]}}
+2025-08-25 20:12:12,842 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"window_event","eventData":"show"}}
+2025-08-25 20:12:12,842 - DEBUG - page.on_event_async: page change [{"i":"page","windowwidth":"800.0","windowheight":"600.0","windowtop":"10.0","windowleft":"10.0","windowminimized":"false","windowmaximized":"false","windowfocused":"true","windowfullscreen":"false"}]
+2025-08-25 20:12:12,842 - DEBUG - page.on_event_async: page window_event show
+2025-08-25 20:12:13,018 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"_4","eventName":"hover","eventData":"true"}}
+2025-08-25 20:12:13,018 - DEBUG - page.on_event_async: _4 hover true
+2025-08-25 20:12:13,033 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"_4","eventName":"hover","eventData":"false"}}
+2025-08-25 20:12:13,033 - DEBUG - page.on_event_async: _4 hover false
+2025-08-25 20:12:14,001 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"app_lifecycle_state_change","eventData":"inactive"}}
+2025-08-25 20:12:14,002 - DEBUG - page.on_event_async: page app_lifecycle_state_change inactive
+2025-08-25 20:12:14,007 - DEBUG - _on_message: {"action":"pageEventFromWeb","payload":{"eventTarget":"page","eventName":"app_lifecycle_state_change","eventData":"hide"}}
+2025-08-25 20:12:14,007 - DEBUG - page.on_event_async: page app_lifecycle_state_change hide
+2025-08-25 20:12:14,368 - DEBUG - Flet View process 24996
+2025-08-25 20:12:14,368 - DEBUG - Closing connection...
+2025-08-25 20:12:14,368 - DEBUG - Disconnecting all pages...
+2025-08-25 20:12:14,368 - DEBUG - page.on_event_async: page disconnect 
+2025-08-25 20:12:14,368 - DEBUG - Shutting down thread pool...
+2025-08-25 20:12:14,371 - INFO - Start clean exit
+2025-08-25 20:12:14,371 - INFO - Stop signal sent
+2025-08-25 20:12:14,406 - INFO - Garbage collection completed
+2025-08-25 20:12:14,407 - INFO - App closed

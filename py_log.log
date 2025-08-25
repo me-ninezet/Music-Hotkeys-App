@@ -1,0 +1,21 @@
+2025-08-25 15:43:32,320 | INFO: Stop signal sent
+2025-08-25 15:43:32,321 | INFO: Music app started
+2025-08-25 15:43:32,322 | INFO: Tray icon started
+2025-08-25 15:43:32,322 | INFO: Hotkeys removed
+2025-08-25 15:43:32,325 | INFO: Assets path configured: C:\Users\shmel\PycharmProjects\yandex-music-hotkeys\assets
+2025-08-25 15:43:32,328 | INFO: Starting up TCP server on localhost:22549
+2025-08-25 15:43:32,340 | INFO: Flet app has started...
+2025-08-25 15:43:32,362 | INFO: App URL: tcp://localhost:22549
+2025-08-25 15:43:32,362 | INFO: Starting Flet View app...
+2025-08-25 15:43:32,363 | INFO: Looking for Flet executable at: C:\Users\shmel\PycharmProjects\yandex-music-hotkeys\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-08-25 15:43:32,363 | INFO: Flet View found in: C:\Users\shmel\PycharmProjects\yandex-music-hotkeys\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-08-25 15:43:32,523 | INFO: Hotkeys setup completed
+2025-08-25 15:43:32,524 | INFO: Program started
+2025-08-25 15:43:32,684 | INFO: App session started
+2025-08-25 15:43:39,572 | INFO: Stop signal sent
+2025-08-25 15:43:39,572 | INFO: Controller stop requested
+2025-08-25 15:43:39,572 | INFO: Music app stopped
+2025-08-25 15:43:39,572 | INFO: Все компоненты остановлены
+2025-08-25 15:43:39,572 | INFO: App full stop
+2025-08-25 15:43:39,598 | INFO: Hotkeys removed
+2025-08-25 15:43:39,598 | INFO: Program stopped

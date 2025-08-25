@@ -1,0 +1,6 @@
+next=Arrow Right
+prev= Arrow Left
+pause=Arrow Down
+mute=end
+volume_down=ins
+volume_up=del

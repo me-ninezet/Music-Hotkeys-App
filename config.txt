@@ -1,0 +1,7 @@
+next=/
+prev=,
+pause=.
+mute=\
+volume_down=Insert
+volume_up=Delete
+
